@@ -59,7 +59,9 @@
     "debug": "^2.6.3",
     "express": "^4.15.2",
     "lodash": "^4.17.4",
-    "request-promise": "^4.2.0"
+    "request-promise": "^4.2.0",
+    "querystring": "^0.2.0",
+        
   },
   "engines": {
     "node": "4.x.x || >=6.x.x"
